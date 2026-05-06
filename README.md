@@ -5,15 +5,15 @@ A machine learning project designed to analyse customer behaviour and product dy
 ## Project Overview
 This repository contains a suite of machine learning models developed by Group 17, tackling various business challenges for a global retailer:
 *   **Classification:** Predicting whether a new customer will become a repeat buyer based on their first-purchase behaviour to drive targeted retention campaigns.
-*   **Regression:** [To be updated by Jirawan]
-*   **Anomaly Detection:** [To be updated by Chaitya]
+*   **Regression:** [To be updated by Chaitya]
+*   **Anomaly Detection:** [To be updated by Jirawan]
 
 ## Repository Structure
 *   `data/`: Raw and processed datasets (ignored in version control).
 *   `notebooks/`: 
     *   `Student_A_Classification/`: EDA and XGBoost classification models (Chen-Tai).
-    *   `Student_B_Regression/`: EDA and regression models (Jirawan).
-    *   `Student_C_Anomaly/`: EDA and anomaly detection models (Chaitya).
+    *   `Student_B_Regression/`: EDA and regression models (Chaitya).
+    *   `Student_C_Anomaly/`: EDA and anomaly detection models (Jirawan).
 *   `templates/`: Blank notebook templates provided by the course instructor.
 
 ## Getting Started
@@ -24,5 +24,5 @@ Ensure you have the required packages installed (e.g., `pandas`, `scikit-learn`,
 | Name | Role / Allocation | Responsibilities |
 | :--- | :--- | :--- |
 | **Chen-Tai Wang** | Student A (Classification) | EDA, Feature Engineering, XGBoost Modeling for customer retention. |
-| **Jirawan Pedersen** | Student B (Regression) | [To be updated] |
-| **Chaitya Nanavati** | Student C (Anomaly Detection) | [To be updated] |
+| **Chaitya Nanavati** | Student B (Regression) | [To be updated] |
+| **Jirawan Pedersen** | Student C (Anomaly Detection) | [To be updated] |
